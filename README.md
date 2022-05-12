@@ -1,2 +1,2 @@
 # python-automation-practice
-Collection of Python automation &amp; Python scripting tutorial projects &amp; exercises
+Collection of Python automation and Python scripting tutorial projects and exercises.
