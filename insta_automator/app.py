@@ -11,7 +11,7 @@ from datetime import datetime
 import tkinter as tk
 from alert_window import AlertWindow
 
-path = '/Users/kalle/Documents/Projects/MyProjects/InstaAutomator/posts'
+path = '/Users/ianwheeler/Projects/python-automation-practice/insta_automator/posts'
 event_handler = MyHandler()
 observer = Observer()
 observer.schedule(event_handler, path, recursive=True)
